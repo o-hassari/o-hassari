@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working at Capgemini as a DevOps and Cloud engineer
+- 🌱 I’m currently preparing my 2nd master degree on DevOps and Cloud
+- 👯 I’m looking to collaborate on open source project
+- 💬 Ask me about everything!
+- 📫 How to reach me: hassariossama98@gmail.com

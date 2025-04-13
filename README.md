@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a DevOps engineer
+- 🔭 I’m currently working as a Cloud DevOps engineer
 - 💬 Ask me about everything!
-- 📫 How to reach me: hassariossama98@gmail.com
+- 📫 How to reach me: ossama.hassari@outlook.fr
